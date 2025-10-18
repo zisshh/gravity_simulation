@@ -1,0 +1,32 @@
+# Build output directories
+/build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+install_manifest.txt
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+
+# Libraries and executables
+*.a
+*.lib
+*.so*
+*.dylib
+*.dll
+*.exe
+
+# IDE and OS artifacts
+.DS_Store
+*.swp
+*~
+
+# Logs and transient data
+*.log

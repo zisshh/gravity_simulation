@@ -1,0 +1,840 @@
+===============================
+	Work log generated at 10/11/2025, 11:28:21 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: ["log.txt","main.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/11/2025, 11:58:21 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: ["main.cpp"]
+	Deleted Files: ["4913","main.cpp~"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/11/2025, 9:49:29 PM:
+	
+
+Modified Files: []
+	Created Files: ["src","dependencies"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/11/2025, 10:19:29 PM:
+	
+
+Modified Files: ["config.h","main.cpp","CMakeLists.txt"]
+	Created Files: ["config.h","main.cpp","CMakeLists.txt"]
+	Deleted Files: ["main.cpp","CMakeLists.txt"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/11/2025, 10:49:29 PM:
+	
+
+Modified Files: ["query.json","cmake.check_cache","pkgRedirects","CMakeLists.txt"]
+	Created Files: ["build",".cmake","api","v1","query","client-vscode","query.json","CMakeFiles","pkgRedirects","reply","error-2025-10-11T17-14-19-0748.json","CMakeCache.txt","cmake.check_cache","error-2025-10-11T17-14-20-0676.json","error-2025-10-11T17-14-43-0709.json","error-2025-10-11T17-15-42-0198.json"]
+	Deleted Files: ["tmp.json","CMakeCache.txt.tmpad7b7","CMakeCache.txt.tmpfd145","CMakeCache.txt.tmp417bd","CMakeCache.txt.tmpfd6a1"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/11/2025, 11:19:29 PM:
+	
+
+Modified Files: ["CMakeLists.txt","query.json","pkgRedirects","CMakeCCompiler.cmake","CMakeCXXCompiler.cmake","CMakeConfigureLog.yaml","cmake.check_cache","cmake_clean.cmake",".DS_Store","GLFW","config.h"]
+	Created Files: ["4.1.2","CMakeSystem.cmake","CMakeConfigureLog.yaml","CompilerIdC","CMakeCCompilerId.c","tmp","a.out","apple-sdk.c","CMakeCCompiler.cmake","CompilerIdCXX","CMakeCXXCompilerId.cpp","CMakeCXXCompiler.cmake","apple-sdk.cpp","CMakeScratch","TryCompile-VnpoXw","CMakeFiles","pkgRedirects","CMakeLists.txt","CMakeCache.txt","CMakeDirectoryInformation.cmake","InstallScripts.json","Makefile2","TargetDirectories.txt","cmTC_d4f07.dir","DependInfo.cmake","build.make","cmake_clean.cmake","compiler_depend.make","compiler_depend.ts","depend.make","flags.make","link.txt","progress.make","cmake.check_cache","progress.marks","Makefile","cmTC_d4f07_loc","cmake_install.cmake","CMakeCCompilerABI.c.o","CMakeCCompilerABI.c.o.d","CMakeDetermineCompilerABI_C.bin","TryCompile-K1oOQz","cmTC_2de02.dir","cmTC_2de02_loc","CMakeCXXCompilerABI.cpp.o","CMakeCXXCompilerABI.cpp.o.d","error-2025-10-11T17-29-21-0635.json","CMakeDetermineCompilerABI_CXX.bin","Makefile.cmake","hello_window.dir","error-2025-10-11T17-29-27-0106.json","error-2025-10-11T17-31-18-0880.json","cache-v2-db84bc61e364c8b57f2e.json","cmakeFiles-v1-cfcdf21df2563ff8f68a.json","codemodel-v2-a844bf432159b94bd543.json","directory-.-Debug-f5ebdc15457944623624.json","index-2025-10-11T17-31-55-0118.json","target-hello_window-Debug-6765541d7df06284bf0a.json","toolchains-v1-c23c518d5bcfcd6473ec.json","src","compile_commands.json","Progress","count.txt","1","main.cpp-8271c015.o.tmp","main.cpp.o","main.cpp.o.d","2","hello_window",".DS_Store","GLFW","glfw3.h","glfw3native.h"]
+	Deleted Files: ["CMakeSystem.cmake.tmp","CMakeCCompiler.cmake.tmp","CMakeCXXCompiler.cmake.tmp","Makefile.tmpbf2e1","CMakeCache.txt.tmp001ae","CMakeCache.txt.tmp79f00","cmTC_d4f07_loc.tmp3a32b","cmake_install.cmake.tmpcf24c","Makefile2.tmpaf0a6","progress.marks.tmpb1803","TargetDirectories.txt.tmpe6fe8","link.txt.tmp23257","flags.make.tmpa79d5","depend.make.tmp1d5e3","progress.make.tmp8508f","CMakeDirectoryInformation.cmake.tmp83d35","DependInfo.cmake.tmp55535","compiler_depend.ts.tmpca402","compiler_depend.make.tmpd049b","CMakeCCompilerABI.c-385c2c29.o.tmp","TryCompile-VnpoXw","Makefile.tmp580ae","CMakeCache.txt.tmp3912b","CMakeCache.txt.tmpf375b","cmTC_2de02_loc.tmp13183","cmake_install.cmake.tmpc082b","Makefile2.tmp34d46","progress.marks.tmp0569a","TargetDirectories.txt.tmp48181","link.txt.tmpb17e6","build.make.tmp813f8","flags.make.tmp143c6","depend.make.tmp86d08","progress.make.tmp947d9","CMakeDirectoryInformation.cmake.tmpe8c53","DependInfo.cmake.tmpe716d","compiler_depend.ts.tmp90f56","compiler_depend.make.tmpd015b","CMakeCXXCompilerABI.cpp-678d71e0.o.tmp","Makefile.tmpd679e","tmp.json","CMakeCache.txt.tmp5e192","cmake_install.cmake.tmp73edb","Makefile2.tmp4127b","Makefile.cmake.tmpd7e03","progress.marks.tmpb77a8","TryCompile-K1oOQz","TargetDirectories.txt.tmpa8b8d","build.make.tmp96d01","flags.make.tmp8824a","depend.make.tmpae5f9","progress.make.tmp9ff06","CMakeDirectoryInformation.cmake.tmp2c926","DependInfo.cmake.tmp202b6","compiler_depend.ts.tmp1d541","compiler_depend.make.tmp4b07d","CMakeScratch","Makefile.tmp8e599","CMakeCache.txt.tmpddfe7","cmake_install.cmake.tmpbd4d0","Makefile2.tmp1e308","Makefile.cmake.tmp2962a","progress.marks.tmp5d42d","TargetDirectories.txt.tmpbea92","build.make.tmp87303","flags.make.tmp3fc97","depend.make.tmpfff11","progress.make.tmpfba20","CMakeDirectoryInformation.cmake.tmp45836","DependInfo.cmake.tmp501fb","compiler_depend.make.tmp7dd64","Makefile.tmp0d061","CMakeCache.txt.tmp3dbf5","cmake_install.cmake.tmp56603","Makefile2.tmpc440f","Makefile.cmake.tmp57bcb","progress.marks.tmpd702b","TargetDirectories.txt.tmpe9c83","build.make.tmp3d24d","flags.make.tmpf56ff","depend.make.tmpd2bd2","progress.make.tmpc3ca3","CMakeDirectoryInformation.cmake.tmpa3ce9","DependInfo.cmake.tmp51ab6","compiler_depend.make.tmp26ad0","Makefile.tmpfbedc","CMakeCache.txt.tmp8cd10","CMakeCache.txt.tmpd2779","cmake_install.cmake.tmp32aeb","Makefile2.tmp91b14","Makefile.cmake.tmp8b00b","progress.marks.tmpa329a","TargetDirectories.txt.tmp2551b","link.txt.tmp90d2c","depend.make.tmp3ead5","progress.make.tmp4cbd4","CMakeDirectoryInformation.cmake.tmpaa7c5","DependInfo.cmake.tmpb060f","error-2025-10-11T17-14-19-0748.json","error-2025-10-11T17-14-20-0676.json","error-2025-10-11T17-14-43-0709.json","error-2025-10-11T17-15-42-0198.json","error-2025-10-11T17-29-21-0635.json","error-2025-10-11T17-29-27-0106.json","error-2025-10-11T17-31-18-0880.json","compiler_depend.make.tmp6e699","main.cpp-8271c015.o.tmp","Progress"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 12:19:29 AM:
+	
+
+Modified Files: ["CMakeLists.txt","query.json","pkgRedirects","InstallScripts.json","cmake.check_cache","cmake_clean.cmake"]
+	Created Files: ["CMakeCache.txt","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","cache-v2-5fb1546b05805f823b98.json","codemodel-v2-a0b2270a537f997c319b.json","index-2025-10-11T18-43-00-0433.json","codemodel-v2-d1ead80d7ef97ad2109b.json","index-2025-10-11T18-44-07-0036.json","target-hello_window-Debug-b01669176300171d80bd.json"]
+	Deleted Files: ["Makefile.tmp8367f","CMakeCache.txt.tmp29cae","CMakeCache.txt.tmpa7905","cmake_install.cmake.tmpf79c2","Makefile2.tmp4692e","Makefile.cmake.tmpf971a","progress.marks.tmpbe47d","TargetDirectories.txt.tmpf5ba9","link.txt.tmp72e87","depend.make.tmp30f6c","progress.make.tmp8640d","CMakeDirectoryInformation.cmake.tmpd136a","DependInfo.cmake.tmp069a7","cache-v2-db84bc61e364c8b57f2e.json","index-2025-10-11T17-31-55-0118.json","compiler_depend.make.tmpcc9f8","codemodel-v2-a844bf432159b94bd543.json","Makefile.tmp86bd3","tmp.json","CMakeCache.txt.tmp922f5","CMakeCache.txt.tmpdbe7a","cmake_install.cmake.tmp452ce","Makefile2.tmp08a3a","Makefile.cmake.tmpd6dae","progress.marks.tmp4e1f3","TargetDirectories.txt.tmp57af5","link.txt.tmp27591","depend.make.tmpc4342","progress.make.tmpd7d02","CMakeDirectoryInformation.cmake.tmpe679e","DependInfo.cmake.tmp2c9d3","index-2025-10-11T18-43-00-0433.json","compiler_depend.make.tmp1e93b","codemodel-v2-a0b2270a537f997c319b.json","target-hello_window-Debug-6765541d7df06284bf0a.json"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 12:49:29 AM:
+	
+
+Modified Files: ["CMakeLists.txt","query.json","pkgRedirects","InstallScripts.json","cmake.check_cache","cmake_clean.cmake","config.h","main.cpp"]
+	Created Files: ["index-2025-10-11T18-52-41-0275.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","error-2025-10-11T18-52-44-0609.json","error-2025-10-11T18-52-47-0953.json","error-2025-10-11T18-53-05-0039.json","codemodel-v2-5c7bf0d806a7965d328c.json","index-2025-10-11T18-53-16-0075.json","target-hello_window-Debug-cd7cc8e637c084c1c9d6.json","flags.make","error-2025-10-11T19-19-08-0408.json","error-2025-10-11T19-19-13-0519.json","index-2025-10-11T19-19-19-0520.json","codemodel-v2-09a40c25df1ad3acc6e7.json","index-2025-10-11T19-19-22-0441.json","target-hello_window-Debug-95ab3107924740b78822.json","link.txt"]
+	Deleted Files: ["Makefile.tmpd0932","CMakeCache.txt.tmp31412","CMakeCache.txt.tmpf05f1","cmake_install.cmake.tmpc4be8","Makefile2.tmp9afef","Makefile.cmake.tmp63147","progress.marks.tmp640da","TargetDirectories.txt.tmpeb3c7","link.txt.tmp781b1","depend.make.tmp88f97","progress.make.tmp778fa","CMakeDirectoryInformation.cmake.tmp964cf","DependInfo.cmake.tmp14021","index-2025-10-11T18-44-07-0036.json","compiler_depend.make.tmp9bee3","tmp.json","CMakeCache.txt.tmp91631","CMakeCache.txt.tmpc272b","CMakeCache.txt.tmp4510e","Makefile.tmp5a90b","CMakeCache.txt.tmp17b33","CMakeCache.txt.tmp33f6a","cmake_install.cmake.tmpb2173","Makefile2.tmpe7996","Makefile.cmake.tmpc9297","progress.marks.tmpa83a9","TargetDirectories.txt.tmpb4b2b","link.txt.tmp8f683","depend.make.tmp84188","progress.make.tmp7f267","CMakeDirectoryInformation.cmake.tmpd1693","DependInfo.cmake.tmp46b53","error-2025-10-11T18-52-44-0609.json","error-2025-10-11T18-52-47-0953.json","error-2025-10-11T18-53-05-0039.json","index-2025-10-11T18-52-41-0275.json","compiler_depend.make.tmp6af94","codemodel-v2-d1ead80d7ef97ad2109b.json","target-hello_window-Debug-b01669176300171d80bd.json","CMakeCache.txt.tmp43945","CMakeCache.txt.tmp62fe9","Makefile.tmp095e1","CMakeCache.txt.tmp0eb87","CMakeCache.txt.tmp645bc","cmake_install.cmake.tmpa548a","Makefile2.tmp598c8","Makefile.cmake.tmpab61e","progress.marks.tmpfb3fd","TargetDirectories.txt.tmp1df97","link.txt.tmpd283a","depend.make.tmpa8d1d","progress.make.tmpd2193","CMakeDirectoryInformation.cmake.tmpcbad0","DependInfo.cmake.tmpd6f23","error-2025-10-11T19-19-08-0408.json","error-2025-10-11T19-19-13-0519.json","index-2025-10-11T18-53-16-0075.json","compiler_depend.make.tmp1f329","Makefile.tmpaf420","CMakeCache.txt.tmp004bc","CMakeCache.txt.tmpb0639","cmake_install.cmake.tmp4b54e","Makefile2.tmpb92d7","Makefile.cmake.tmpacef4","progress.marks.tmp44570","TargetDirectories.txt.tmp723a6","link.txt.tmpf94ea","depend.make.tmp7edce","progress.make.tmp0a429","CMakeDirectoryInformation.cmake.tmp84db2","DependInfo.cmake.tmpdef80","index-2025-10-11T19-19-19-0520.json","compiler_depend.make.tmpad94e","codemodel-v2-5c7bf0d806a7965d328c.json","target-hello_window-Debug-cd7cc8e637c084c1c9d6.json"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 1:19:29 AM:
+	
+
+Modified Files: ["main.cpp.o.d","hello_window","query.json","pkgRedirects","InstallScripts.json","cmake.check_cache","cmake_clean.cmake","main.cpp",".DS_Store"]
+	Created Files: ["Progress","count.txt","compiler_depend.internal","compiler_depend.make","1","main.cpp-76f21f5f.o.tmp","main.cpp.o","2","index-2025-10-11T19-19-44-0402.json","Makefile.cmake","Makefile2","TargetDirectories.txt","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","index-2025-10-11T19-19-51-0380.json","main.cpp-4d8e654d.o.tmp","glad","glad.c"]
+	Deleted Files: ["main.cpp-76f21f5f.o.tmp","Progress","Makefile.tmpeb0ac","tmp.json","CMakeCache.txt.tmp81e9f","CMakeCache.txt.tmpb93a0","cmake_install.cmake.tmpb0acb","Makefile2.tmpcc932","Makefile.cmake.tmpee596","progress.marks.tmp00e09","TargetDirectories.txt.tmp97bd1","link.txt.tmpd416b","depend.make.tmp3ccac","progress.make.tmp6c816","CMakeDirectoryInformation.cmake.tmpe1ffe","compiler_depend.internal","DependInfo.cmake.tmp7a4c9","index-2025-10-11T19-19-22-0441.json","compiler_depend.make.tmp9d70f","Makefile.tmp5f8c8","CMakeCache.txt.tmp10556","CMakeCache.txt.tmpffb3a","cmake_install.cmake.tmp477b5","Makefile2.tmp84375","Makefile.cmake.tmp28963","progress.marks.tmp9903b","TargetDirectories.txt.tmp2d8b5","link.txt.tmp16dfe","depend.make.tmp1a388","progress.make.tmpcdd57","CMakeDirectoryInformation.cmake.tmp388fc","DependInfo.cmake.tmp68603","index-2025-10-11T19-19-44-0402.json","compiler_depend.make.tmpd1991","compiler_depend.make.tmp4b7aa","compiler_depend.internal.tmp9f212","main.cpp-4d8e654d.o.tmp","glad.c"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 1:49:29 AM:
+	
+
+Modified Files: ["config.h",".DS_Store","main.cpp.o.d","CMakeLists.txt","query.json","pkgRedirects","cmake.check_cache","CMakeConfigureLog.yaml","InstallScripts.json","cmake_clean.cmake","Progress","count.txt","main.cpp","hello_window","glad.c.o.d"]
+	Created Files: ["KHR","Progress","count.txt","1","compiler_depend.internal","main.cpp-223ace57.o.tmp","main.cpp.o","2","error-2025-10-11T19-55-21-0741.json","cache-v2-be9fcef95eb021082729.json","cmakeFiles-v1-86434f6c232605b4ce03.json","index-2025-10-11T19-55-31-0508.json","CMakeCache.txt","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","codemodel-v2-1d473a2502317dd9ac06.json","index-2025-10-11T19-55-53-0002.json","target-hello_window-Debug-e3e4dc02a36803778c4b.json","DependInfo.cmake","build.make","flags.make","link.txt","codemodel-v2-93e02bde5209684820d7.json","index-2025-10-11T19-56-07-0766.json","target-hello_window-Debug-ac512feb61f6f6d7f0bc.json","codemodel-v2-dd551d292d1c999c3505.json","index-2025-10-11T19-56-14-0075.json","target-hello_window-Debug-1620658e465866a8eae5.json","codemodel-v2-be7fa7ba1086023c8308.json","index-2025-10-11T19-56-19-0069.json","target-hello_window-Debug-505ae3dcf0f7a47f58ee.json","index-2025-10-11T19-56-23-0669.json","index-2025-10-11T19-56-32-0877.json","index-2025-10-11T19-56-41-0607.json","index-2025-10-11T19-56-44-0745.json","codemodel-v2-134f951636263bb7f1dc.json","index-2025-10-11T19-57-01-0770.json","target-hello_window-Debug-1ed9153473f5c47f1e8d.json","glad.c-f9c98aa0.o.tmp","main.cpp-9fe9bd01.o.tmp","glad.c.o","glad.c.o.d","3","hello_window","compiler_depend.internal.tmp46746","compiler_depend.make.tmpb4c93","main.cpp-ed286a6f.o.tmp","main.cpp-165861b2.o.tmp","codemodel-v2-0d8a6c1d83b2c226117b.json","index-2025-10-11T20-18-40-0497.json","target-hello_window-Debug-65bc85c24902b2b998c7.json","error-2025-10-11T20-18-41-0548.json","codemodel-v2-ba4c629db1717d34bee1.json","index-2025-10-11T20-18-43-0219.json","target-hello_window-Debug-3fe38f87badb3107bcc4.json","glad.c-fce3742f.o.tmp","main.cpp-ebaed33a.o.tmp"]
+	Deleted Files: ["compiler_depend.internal.tmpb2159","main.cpp-223ace57.o.tmp","hello_window","tmp.json","CMakeCache.txt.tmp6bf54","Makefile.tmp03a48","CMakeCache.txt.tmpbeaee","CMakeCache.txt.tmpf55c1","cmake_install.cmake.tmp80ef1","Makefile2.tmp7a27b","Makefile.cmake.tmpba88a","progress.marks.tmpd7556","TargetDirectories.txt.tmpcb74d","link.txt.tmp8b6b8","depend.make.tmpb962b","progress.make.tmp05596","CMakeDirectoryInformation.cmake.tmpc162f","compiler_depend.internal","DependInfo.cmake.tmp2f2bc","cache-v2-5fb1546b05805f823b98.json","error-2025-10-11T19-55-21-0741.json","index-2025-10-11T19-19-51-0380.json","compiler_depend.make.tmp4b08e","cmakeFiles-v1-cfcdf21df2563ff8f68a.json","Makefile.tmp42e85","CMakeCache.txt.tmp2c8b7","CMakeCache.txt.tmp7d65a","cmake_install.cmake.tmpe64e2","Makefile2.tmpe016b","Makefile.cmake.tmp74d9a","progress.marks.tmp254d9","TargetDirectories.txt.tmpf4f42","link.txt.tmp85e8b","depend.make.tmp75c1e","progress.make.tmpc4413","CMakeDirectoryInformation.cmake.tmp529ba","DependInfo.cmake.tmpae058","index-2025-10-11T19-55-31-0508.json","compiler_depend.make.tmpe5e84","codemodel-v2-09a40c25df1ad3acc6e7.json","target-hello_window-Debug-95ab3107924740b78822.json","Makefile.tmp1d9ee","CMakeCache.txt.tmp9496b","CMakeCache.txt.tmpadaac","cmake_install.cmake.tmpc5ca8","Makefile2.tmpcdfb5","Makefile.cmake.tmpefe0e","progress.marks.tmp8e385","TargetDirectories.txt.tmpb6912","link.txt.tmpba6d2","depend.make.tmp9c0ce","progress.make.tmp8835d","CMakeDirectoryInformation.cmake.tmpe9f74","DependInfo.cmake.tmpd5181","index-2025-10-11T19-55-53-0002.json","compiler_depend.make.tmp5b34c","codemodel-v2-1d473a2502317dd9ac06.json","target-hello_window-Debug-e3e4dc02a36803778c4b.json","Makefile.tmpad0cd","CMakeCache.txt.tmp19686","CMakeCache.txt.tmp42f91","cmake_install.cmake.tmp2dac7","Makefile2.tmp03307","Makefile.cmake.tmp7da2b","progress.marks.tmp458aa","TargetDirectories.txt.tmpe2b23","link.txt.tmpf3ec6","depend.make.tmp7b552","progress.make.tmpf9fc6","CMakeDirectoryInformation.cmake.tmpe09e3","DependInfo.cmake.tmp2b2cb","index-2025-10-11T19-56-07-0766.json","compiler_depend.make.tmp96f3f","codemodel-v2-93e02bde5209684820d7.json","target-hello_window-Debug-ac512feb61f6f6d7f0bc.json","Makefile.tmp09578","CMakeCache.txt.tmpa4f7c","CMakeCache.txt.tmpb71f6","cmake_install.cmake.tmpd64be","Makefile2.tmpfc9b5","Makefile.cmake.tmpa5cac","progress.marks.tmpab200","TargetDirectories.txt.tmpc0566","link.txt.tmp411d1","depend.make.tmp1a232","progress.make.tmpa311e","CMakeDirectoryInformation.cmake.tmp3f509","DependInfo.cmake.tmpf9d34","index-2025-10-11T19-56-14-0075.json","compiler_depend.make.tmp12943","codemodel-v2-dd551d292d1c999c3505.json","target-hello_window-Debug-1620658e465866a8eae5.json","Makefile.tmpa0474","CMakeCache.txt.tmp6fe1a","CMakeCache.txt.tmp83975","cmake_install.cmake.tmp00560","Makefile2.tmp640ba","Makefile.cmake.tmp319c6","progress.marks.tmp9cf60","TargetDirectories.txt.tmp2c412","link.txt.tmp6b33c","depend.make.tmpe7b8e","progress.make.tmpedd8d","CMakeDirectoryInformation.cmake.tmpb3152","DependInfo.cmake.tmp3d4e6","index-2025-10-11T19-56-19-0069.json","compiler_depend.make.tmpde214","Makefile.tmpeeaa5","CMakeCache.txt.tmp5647c","CMakeCache.txt.tmp9e54a","cmake_install.cmake.tmp3daf8","Makefile2.tmpeb01b","Makefile.cmake.tmpd7495","progress.marks.tmpc08f2","TargetDirectories.txt.tmp39b8c","link.txt.tmpba729","depend.make.tmp11de0","progress.make.tmpc58da","CMakeDirectoryInformation.cmake.tmp9d3ac","DependInfo.cmake.tmp10dfb","index-2025-10-11T19-56-23-0669.json","compiler_depend.make.tmp0efc7","Makefile.tmp5acc9","CMakeCache.txt.tmp46186","CMakeCache.txt.tmpc0e55","cmake_install.cmake.tmpc51d3","Makefile2.tmp0a433","Makefile.cmake.tmpef4eb","progress.marks.tmpa10da","TargetDirectories.txt.tmp7df00","link.txt.tmp20ee1","depend.make.tmpb9b1a","progress.make.tmp2dc8f","CMakeDirectoryInformation.cmake.tmpb16e6","DependInfo.cmake.tmp7e4f5","index-2025-10-11T19-56-32-0877.json","compiler_depend.make.tmp24ae6","Makefile.tmpf72ca","CMakeCache.txt.tmp7655c","CMakeCache.txt.tmpa3a30","cmake_install.cmake.tmpa47e7","Makefile2.tmp0f1b3","Makefile.cmake.tmpa89a1","progress.marks.tmp1eb0e","TargetDirectories.txt.tmpa59fe","link.txt.tmp5d9dd","flags.make.tmp0874e","depend.make.tmp8fd81","progress.make.tmp59177","CMakeDirectoryInformation.cmake.tmp1ba6c","DependInfo.cmake.tmp66638","index-2025-10-11T19-56-41-0607.json","compiler_depend.make.tmp3c104","Makefile.tmp6d805","CMakeCache.txt.tmp6a87a","CMakeCache.txt.tmpf9939","cmake_install.cmake.tmp56273","Makefile2.tmp446ae","Makefile.cmake.tmp42766","progress.marks.tmpfaacf","TargetDirectories.txt.tmp43b77","link.txt.tmp273a0","depend.make.tmp6012a","progress.make.tmpb5424","CMakeDirectoryInformation.cmake.tmp79993","DependInfo.cmake.tmp43070","index-2025-10-11T19-56-44-0745.json","compiler_depend.make.tmp31b9b","codemodel-v2-be7fa7ba1086023c8308.json","target-hello_window-Debug-505ae3dcf0f7a47f58ee.json","1","2","glad.c-f9c98aa0.o.tmp","main.cpp-9fe9bd01.o.tmp","Progress","compiler_depend.make.tmpb4c93","compiler_depend.internal.tmp46746","main.cpp-ed286a6f.o.tmp","main.cpp-165861b2.o.tmp","Makefile.tmp22334","CMakeCache.txt.tmp013d9","CMakeCache.txt.tmp25735","cmake_install.cmake.tmpf2f46","Makefile2.tmpf24b5","Makefile.cmake.tmpd8428","progress.marks.tmp3bbf9","TargetDirectories.txt.tmp3b31b","link.txt.tmp1577d","depend.make.tmp43450","progress.make.tmpe971e","CMakeDirectoryInformation.cmake.tmp1479a","DependInfo.cmake.tmp6a3be","index-2025-10-11T19-57-01-0770.json","compiler_depend.make.tmpf3542","codemodel-v2-134f951636263bb7f1dc.json","target-hello_window-Debug-1ed9153473f5c47f1e8d.json","Makefile.tmp4a5d6","CMakeCache.txt.tmpa84b4","cmake_install.cmake.tmpd7d00","Makefile2.tmp6ea4f","Makefile.cmake.tmpe772f","progress.marks.tmp1c0b2","TargetDirectories.txt.tmpdebf5","link.txt.tmpc481a","depend.make.tmp8e01b","progress.make.tmpa41ce","CMakeDirectoryInformation.cmake.tmp73dae","DependInfo.cmake.tmp1d8d8","compiler_depend.make.tmp43106","Makefile.tmpa5441","CMakeCache.txt.tmp1252e","CMakeCache.txt.tmpc3dc5","cmake_install.cmake.tmp8776f","Makefile2.tmp5e474","Makefile.cmake.tmp28315","progress.marks.tmp92194","TargetDirectories.txt.tmpf871b","link.txt.tmpd06bc","depend.make.tmp05bc0","progress.make.tmp232ce","CMakeDirectoryInformation.cmake.tmp4b038","DependInfo.cmake.tmp95df3","error-2025-10-11T20-18-41-0548.json","index-2025-10-11T20-18-40-0497.json","compiler_depend.make.tmp879be","codemodel-v2-0d8a6c1d83b2c226117b.json","target-hello_window-Debug-65bc85c24902b2b998c7.json","glad.c-fce3742f.o.tmp","main.cpp-ebaed33a.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 9:19:29 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 9:49:29 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 10:19:29 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 11:49:29 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 12:19:29 PM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 12:49:29 PM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/12/2025, 11:49:30 PM:
+	
+
+Modified Files: ["main.cpp","config.h"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 12:19:30 AM:
+	
+
+Modified Files: ["main.cpp","config.h"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 1:19:30 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 2:19:30 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 3:49:30 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 4:19:30 AM:
+	
+
+Modified Files: ["main.cpp","main.cpp.o.d","hello_window"]
+	Created Files: ["Progress","count.txt","1","compiler_depend.internal","main.cpp-1683055a.o.tmp","main.cpp.o","3","main.cpp-fdb68203.o.tmp","main.cpp-36e191b6.o.tmp","main.cpp-341d5200.o.tmp","main.cpp-729f9081.o.tmp","compiler_depend.internal.tmpb0e25","compiler_depend.make.tmpfbbf5","main.cpp-51814fc7.o.tmp","main.cpp-d84d3e6d.o.tmp"]
+	Deleted Files: ["main.cpp-1683055a.o.tmp","Progress","main.cpp-fdb68203.o.tmp","main.cpp-36e191b6.o.tmp","compiler_depend.internal.tmp8f3c2","main.cpp-341d5200.o.tmp","main.cpp-729f9081.o.tmp","compiler_depend.make.tmpfbbf5","compiler_depend.internal.tmpb0e25","main.cpp-51814fc7.o.tmp","compiler_depend.internal.tmp86d70","main.cpp-d84d3e6d.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 4:49:30 AM:
+	
+
+Modified Files: ["main.cpp","main.cpp.o.d","hello_window"]
+	Created Files: ["Progress","count.txt","1","compiler_depend.internal","main.cpp-4da5462b.o.tmp","main.cpp.o","3","compiler_depend.internal.tmpbc957","compiler_depend.make.tmp5d8e1","main.cpp-14a60077.o.tmp"]
+	Deleted Files: ["main.cpp-4da5462b.o.tmp","Progress","compiler_depend.make.tmp5d8e1","compiler_depend.internal.tmpbc957","main.cpp-14a60077.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 5:19:30 AM:
+	
+
+Modified Files: ["log.txt","main.cpp","main.cpp.o.d","hello_window"]
+	Created Files: ["Progress","count.txt","1","compiler_depend.internal","main.cpp-3dea409c.o.tmp","main.cpp.o","3","main.cpp-f988a9f1.o.tmp"]
+	Deleted Files: ["main.cpp-3dea409c.o.tmp","Progress","compiler_depend.internal.tmp53dc7","main.cpp-f988a9f1.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 5:49:30 AM:
+	
+
+Modified Files: ["main.cpp.o.d","hello_window","main.cpp","config.h"]
+	Created Files: ["Progress","count.txt","1","compiler_depend.internal","main.cpp-54656abf.o.tmp","main.cpp.o","3","main.cpp-fc739dfd.o.tmp","main.cpp-2309e0c3.o.tmp","main.cpp-225d613a.o.tmp","main.cpp-fc65eeb8.o.tmp","main.cpp-add03623.o.tmp","main.cpp-1a933f71.o.tmp","main.cpp-3ad87561.o.tmp","main.cpp-fc9d9e36.o.tmp","compiler_depend.internal.tmp1611f","compiler_depend.make.tmp76628","main.cpp-5ea4ce68.o.tmp","main.cpp-ac2ce8f8.o.tmp","main.cpp-71de6f43.o.tmp"]
+	Deleted Files: ["main.cpp-54656abf.o.tmp","Progress","main.cpp-fc739dfd.o.tmp","compiler_depend.make.tmp6c8b2","compiler_depend.internal.tmpd3310","main.cpp-2309e0c3.o.tmp","main.cpp-225d613a.o.tmp","compiler_depend.internal.tmpf042a","main.cpp-fc65eeb8.o.tmp","compiler_depend.internal.tmp2f0fa","main.cpp-add03623.o.tmp","main.cpp-1a933f71.o.tmp","compiler_depend.make.tmpb6082","compiler_depend.internal.tmpedd81","main.cpp-3ad87561.o.tmp","compiler_depend.internal.tmp0f414","main.cpp-fc9d9e36.o.tmp","compiler_depend.make.tmp76628","compiler_depend.internal.tmp1611f","main.cpp-5ea4ce68.o.tmp","compiler_depend.internal.tmp41aad","main.cpp-ac2ce8f8.o.tmp","main.cpp-71de6f43.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 6:34:02 AM:
+	
+
+Modified Files: ["CMakeLists.txt","query.json","pkgRedirects","cmake.check_cache","InstallScripts.json","cmake_clean.cmake","CMakeConfigureLog.yaml"]
+	Created Files: ["error-2025-10-13T00-34-05-0626.json","CMakeCache.txt","error-2025-10-13T00-34-09-0199.json","cache-v2-03e8260128f6bfc626de.json","codemodel-v2-c0341ea14caa3b48bf0f.json","index-2025-10-13T00-34-14-0960.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","error-2025-10-13T00-34-29-0733.json","error-2025-10-13T00-34-36-0621.json","error-2025-10-13T00-34-40-0770.json","error-2025-10-13T00-35-32-0988.json","CMakeScratch","TryCompile-hu9Pl1","CMakeFiles","pkgRedirects","CMakeLists.txt","src.c","CMakeDirectoryInformation.cmake","InstallScripts.json","cmTC_84b5b.dir","DependInfo.cmake","build.make","cmake_clean.cmake","compiler_depend.ts","flags.make","link.txt","cmake.check_cache","cmTC_84b5b_loc","src.c.o","src.c.o.d","cache-v2-67d25c06df89e3f70ba8.json","cmakeFiles-v1-01f9e31d180f9f3f030a.json","codemodel-v2-d182901b87d5e5dd73e4.json","index-2025-10-13T00-36-06-0413.json","target-blackholesim-Debug-6f191ff43a6053ef800d.json","blackholesim.dir","src","cmakeFiles-v1-86434f6c232605b4ce03.json","codemodel-v2-c36e44e333d51c59d9e1.json","index-2025-10-13T00-36-12-0824.json","target-blackholesim-Debug-f1173c92f77fc5880a6d.json","Progress","1","2","count.txt","glad.c-208dae86.o.tmp","main.cpp-8533338b.o.tmp","glad.c.o","glad.c.o.d","main.cpp.o","main.cpp.o.d","3","blackholesim"]
+	Deleted Files: ["tmp.json","CMakeCache.txt.tmp81bc6","CMakeCache.txt.tmp25720","Makefile.tmpe54f8","CMakeCache.txt.tmp0e91f","CMakeCache.txt.tmpb595f","cmake_install.cmake.tmp7e8b0","Makefile2.tmp6980f","Makefile.cmake.tmp5dc98","progress.marks.tmp68cfb","TargetDirectories.txt.tmp6e571","link.txt.tmp0abbb","flags.make.tmpe7c82","depend.make.tmp40794","progress.make.tmpc9561","CMakeDirectoryInformation.cmake.tmp47da0","compiler_depend.internal","DependInfo.cmake.tmp0f4c7","cache-v2-be9fcef95eb021082729.json","error-2025-10-13T00-34-05-0626.json","error-2025-10-13T00-34-09-0199.json","index-2025-10-11T20-18-43-0219.json","compiler_depend.make.tmpc4dfe","codemodel-v2-ba4c629db1717d34bee1.json","CMakeCache.txt.tmp55794","CMakeCache.txt.tmp7e57d","CMakeCache.txt.tmpbb50f","CMakeCache.txt.tmpb7f6d","Makefile.tmp6cf8d","CMakeCache.txt.tmp65d8f","CMakeCache.txt.tmpcd2af","cmTC_84b5b_loc.tmpa7a44","cmake_install.cmake.tmpaebfc","Makefile2.tmpbd59e","progress.marks.tmp28fba","TargetDirectories.txt.tmp38203","link.txt.tmp6bb4a","flags.make.tmp1c2e7","depend.make.tmpad809","progress.make.tmp23ba8","CMakeDirectoryInformation.cmake.tmpfa252","DependInfo.cmake.tmpe19a6","compiler_depend.ts.tmp0c745","compiler_depend.make.tmpe2aab","Makefile.tmpe2d2e","CMakeCache.txt.tmp8b1c0","CMakeCache.txt.tmp93d3f","cmake_install.cmake.tmp51d3d","Makefile2.tmp15afe","Makefile.cmake.tmp91e28","progress.marks.tmpb019e","TryCompile-hu9Pl1","TargetDirectories.txt.tmp5015d","link.txt.tmp9121c","depend.make.tmp741c7","progress.make.tmpad3a1","CMakeDirectoryInformation.cmake.tmp88371","DependInfo.cmake.tmpc94ed","cache-v2-03e8260128f6bfc626de.json","error-2025-10-13T00-34-29-0733.json","error-2025-10-13T00-34-36-0621.json","error-2025-10-13T00-34-40-0770.json","error-2025-10-13T00-35-32-0988.json","index-2025-10-13T00-34-14-0960.json","compiler_depend.ts.tmpc0801","compiler_depend.make.tmpbfb08","codemodel-v2-c0341ea14caa3b48bf0f.json","cmakeFiles-v1-86434f6c232605b4ce03.json","target-hello_window-Debug-3fe38f87badb3107bcc4.json","CMakeScratch","Makefile.tmpe064e","CMakeCache.txt.tmp2e9fa","CMakeCache.txt.tmpdf386","cmake_install.cmake.tmp47b94","Makefile2.tmpeb8e1","Makefile.cmake.tmpbd33e","progress.marks.tmpe4b63","TargetDirectories.txt.tmp170d1","link.txt.tmp6e11f","depend.make.tmp6afc2","progress.make.tmpbaa79","CMakeDirectoryInformation.cmake.tmpd23ed","DependInfo.cmake.tmp96277","index-2025-10-13T00-36-06-0413.json","compiler_depend.make.tmpd7c57","codemodel-v2-d182901b87d5e5dd73e4.json","cmakeFiles-v1-01f9e31d180f9f3f030a.json","target-blackholesim-Debug-6f191ff43a6053ef800d.json","glad.c-208dae86.o.tmp","main.cpp-8533338b.o.tmp","Progress"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 10:04:02 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/13/2025, 10:34:02 AM:
+	
+
+Modified Files: ["main.cpp","main.cpp.o.d","blackholesim"]
+	Created Files: ["Progress","count.txt","1","compiler_depend.internal","compiler_depend.make","main.cpp-d2c2aff4.o.tmp","main.cpp.o","3","main.cpp-4e2f6ee1.o.tmp","main.cpp-a97bb0d9.o.tmp","main.cpp-9533248c.o.tmp","main.cpp-5eaff0ef.o.tmp","main.cpp-629ae2f4.o.tmp","main.cpp-cafb24fa.o.tmp","main.cpp-37faba8d.o.tmp","compiler_depend.internal.tmp14df2","compiler_depend.make.tmpf5f50","main.cpp-07457ffb.o.tmp"]
+	Deleted Files: ["main.cpp-d2c2aff4.o.tmp","Progress","main.cpp-4e2f6ee1.o.tmp","main.cpp-a97bb0d9.o.tmp","main.cpp-9533248c.o.tmp","compiler_depend.internal.tmp2035c","main.cpp-5eaff0ef.o.tmp","main.cpp-629ae2f4.o.tmp","main.cpp-cafb24fa.o.tmp","main.cpp-37faba8d.o.tmp","compiler_depend.make.tmpf5f50","compiler_depend.internal.tmp14df2","main.cpp-07457ffb.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 4:59:26 AM:
+	
+
+Modified Files: ["query.json","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","main.cpp","main.cpp.o.d","Progress","count.txt"]
+	Created Files: ["pkgRedirects","index-2025-10-14T22-59-34-0454.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","Progress","count.txt","compiler_depend.make.tmp2957e","compiler_depend.internal","1","main.cpp-0d614313.o.tmp","main.cpp-b48b1ff6.o.tmp"]
+	Deleted Files: ["Makefile.tmpc36b2","CMakeCache.txt.tmp1e564","CMakeCache.txt.tmpa7e8f","cmake_install.cmake.tmp44be5","Makefile2.tmp7e16c","Makefile.cmake.tmpf8dd5","progress.marks.tmpf58dc","TargetDirectories.txt.tmpdc746","link.txt.tmpe8c19","depend.make.tmp6fbf1","progress.make.tmpadd10","CMakeDirectoryInformation.cmake.tmpf56ef","DependInfo.cmake.tmp502d3","index-2025-10-14T22-46-22-0678.json","compiler_depend.make.tmp7e8d5","compiler_depend.internal.tmpa92bb","Progress","compiler_depend.make.tmp2957e","main.cpp.o","main.cpp-0d614313.o.tmp","1","compiler_depend.internal.tmp58f21","main.cpp-b48b1ff6.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 5:29:26 AM:
+	
+
+Modified Files: ["Progress","count.txt","main.cpp.o.d","blackholesim","main.cpp"]
+	Created Files: ["1","compiler_depend.internal","main.cpp-07d241da.o.tmp","main.cpp.o","3","Progress","count.txt","main.cpp-68afc036.o.tmp","main.cpp-d133ed48.o.tmp","main.cpp-21e1bd33.o.tmp","main.cpp","main.cpp-49a5087d.o.tmp","compiler_depend.internal.tmpd929e","compiler_depend.make.tmpfeddd"]
+	Deleted Files: ["1","main.cpp-07d241da.o.tmp","Progress","main.cpp-68afc036.o.tmp","compiler_depend.internal.tmp77dd5","main.cpp-d133ed48.o.tmp","main.cpp-21e1bd33.o.tmp","main.cpp.tmp.15023.1760485135611","main.cpp.tmp.15023.1760485157886","main.cpp-49a5087d.o.tmp","compiler_depend.make.tmpfeddd","compiler_depend.internal.tmpd929e"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 5:59:26 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 6:29:26 AM:
+	
+
+Modified Files: ["main.cpp","main.cpp.o.d","Progress","count.txt","blackholesim"]
+	Created Files: ["Progress","count.txt","1","main.cpp-cdc19b3d.o.tmp","compiler_depend.internal","main.cpp-5c649f87.o.tmp","main.cpp.o","3","main.cpp","main.cpp-4ecfe8d3.o.tmp","compiler_depend.make.tmp6d9b4","main.cpp-bb4ccd02.o.tmp","compiler_depend.internal.tmp6a8e2","compiler_depend.make.tmpbc19c","main.cpp-db828710.o.tmp","main.cpp-ad05b066.o.tmp","compiler_depend.internal.tmp7325c","compiler_depend.make.tmpd1d83","main.cpp-89802155.o.tmp","compiler_depend.internal.tmp4c2a4","compiler_depend.make.tmp4c758","main.cpp-c937aa3f.o.tmp","compiler_depend.internal.tmp89641","compiler_depend.make.tmpe3835","main.cpp-f443728a.o.tmp"]
+	Deleted Files: ["main.cpp.o","main.cpp-cdc19b3d.o.tmp","1","compiler_depend.internal.tmpcc8bb","main.cpp-5c649f87.o.tmp","Progress","main.cpp.tmp.15023.1760488702585","main.cpp.tmp.15023.1760488739121","main.cpp.tmp.15023.1760488751867","main.cpp.tmp.15023.1760488860914","main.cpp.tmp.15023.1760488878336","compiler_depend.internal.tmpf7ac6","main.cpp-4ecfe8d3.o.tmp","compiler_depend.internal.tmpa7393","compiler_depend.make.tmp6d9b4","main.cpp.tmp.15023.1760489027105","main.cpp-bb4ccd02.o.tmp","compiler_depend.make.tmpbc19c","compiler_depend.internal.tmp6a8e2","main.cpp.tmp.15023.1760489188996","main.cpp-db828710.o.tmp","compiler_depend.internal.tmp8825d","main.cpp.tmp.15023.1760489260303","main.cpp.tmp.15023.1760489270979","main.cpp.tmp.15023.1760489281588","main.cpp-ad05b066.o.tmp","compiler_depend.make.tmpd1d83","compiler_depend.internal.tmp7325c","main.cpp.tmp.15023.1760489593005","main.cpp-89802155.o.tmp","compiler_depend.make.tmp4c758","compiler_depend.internal.tmp4c2a4","main.cpp.tmp.15023.1760489843561","main.cpp.tmp.15023.1760489859393","main.cpp-c937aa3f.o.tmp","compiler_depend.make.tmpe3835","compiler_depend.internal.tmp89641","main.cpp.tmp.15023.1760489940437","main.cpp-f443728a.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 6:59:26 AM:
+	
+
+Modified Files: []
+	Created Files: ["Progress","count.txt","compiler_depend.internal"]
+	Deleted Files: ["Progress","compiler_depend.make.tmp29ac3","compiler_depend.internal.tmpd42a5"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 9:30:39 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 10:01:14 AM:
+	
+
+Modified Files: ["log.txt"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 10:31:24 AM:
+	
+
+Modified Files: ["log.txt"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 12:06:42 PM:
+	
+
+Modified Files: ["log.txt"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 12:36:42 PM:
+	
+
+Modified Files: ["log.txt"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 1:14:38 PM:
+	
+
+Modified Files: ["main.cpp.o.d","blackholesim"]
+	Created Files: ["Progress","count.txt","1","main.cpp-80eac0c2.o.tmp","main.cpp.o","3","compiler_depend.make.tmp4b719","compiler_depend.internal"]
+	Deleted Files: ["main.cpp-80eac0c2.o.tmp","Progress","compiler_depend.internal.tmp54546","compiler_depend.make.tmp4b719"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/15/2025, 1:44:38 PM:
+	
+
+Modified Files: ["log.txt"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 7:22:35 AM:
+	
+
+Modified Files: ["query.json","InstallScripts.json","cmake_clean.cmake","cmake.check_cache"]
+	Created Files: ["pkgRedirects","index-2025-10-17T01-22-47-0822.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","Progress","count.txt","compiler_depend.internal.tmp04a6a","compiler_depend.make.tmp555c0","compiler_depend.internal"]
+	Deleted Files: ["Makefile.tmp741ae","tmp.json","CMakeCache.txt.tmp0c15e","CMakeCache.txt.tmp5756f","cmake_install.cmake.tmpcea4b","Makefile2.tmpae3d1","Makefile.cmake.tmpc1ccf","progress.marks.tmpeb3df","TargetDirectories.txt.tmp98cdc","link.txt.tmpd6404","depend.make.tmp0907c","progress.make.tmpd5653","CMakeDirectoryInformation.cmake.tmp5c57f","compiler_depend.internal","DependInfo.cmake.tmp5fb97","index-2025-10-14T22-59-34-0454.json","compiler_depend.make.tmp57f45","Progress","compiler_depend.make.tmp555c0","compiler_depend.internal.tmp04a6a"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 7:52:35 AM:
+	
+
+Modified Files: ["main.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 8:22:35 AM:
+	
+
+Modified Files: ["main.cpp","blackhole.cpp"]
+	Created Files: ["blackhole.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 10:48:29 AM:
+	
+
+Modified Files: ["blackhole.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 11:18:29 AM:
+	
+
+Modified Files: ["blackhole.cpp","config.h"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 3:41:47 PM:
+	
+
+Modified Files: ["query.json","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","blackhole.cpp","CMakeLists.txt","pkgRedirects","CMakeConfigureLog.yaml","config.h"]
+	Created Files: ["pkgRedirects","index-2025-10-17T09-41-52-0132.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","error-2025-10-17T10-01-20-0072.json","codemodel-v2-4e279233866cc751aba6.json","index-2025-10-17T10-01-21-0824.json","target-blackholesim-Debug-d495574538be49e2086e.json","DependInfo.cmake","build.make","link.txt","index-2025-10-17T10-01-26-0735.json","error-2025-10-17T10-01-53-0263.json","error-2025-10-17T10-01-59-0246.json","error-2025-10-17T10-02-01-0486.json","cache-v2-cbe6c9e8d05a404fa792.json","cmakeFiles-v1-f4d0e2fdd781d6d668ef.json","codemodel-v2-81003c63d9131feb67cf.json","index-2025-10-17T10-02-22-0379.json","target-blackholesim-Debug-1f32becaf905a8f69be9.json","CMakeCache.txt"]
+	Deleted Files: ["Makefile.tmp9c189","CMakeCache.txt.tmp28250","CMakeCache.txt.tmpc0ebe","cmake_install.cmake.tmp632f1","Makefile2.tmpc9ff9","Makefile.cmake.tmp89cf0","progress.marks.tmp2b259","TargetDirectories.txt.tmp0a998","link.txt.tmp72ff9","depend.make.tmpc69f2","progress.make.tmp77d44","CMakeDirectoryInformation.cmake.tmp45010","compiler_depend.internal","DependInfo.cmake.tmpfdd53","index-2025-10-17T01-22-47-0822.json","compiler_depend.make.tmp86255","tmp.json","CMakeCache.txt.tmp6c60e","Makefile.tmp75f6c","CMakeCache.txt.tmp35ee5","CMakeCache.txt.tmpe58cf","cmake_install.cmake.tmpedc56","Makefile2.tmp542aa","Makefile.cmake.tmp1e554","progress.marks.tmp4f08a","TargetDirectories.txt.tmp794ce","link.txt.tmp7f80d","depend.make.tmpd1311","progress.make.tmpf787b","CMakeDirectoryInformation.cmake.tmpcec89","DependInfo.cmake.tmp9c637","error-2025-10-17T10-01-20-0072.json","index-2025-10-17T09-41-52-0132.json","compiler_depend.make.tmp8fa17","codemodel-v2-c36e44e333d51c59d9e1.json","target-blackholesim-Debug-f1173c92f77fc5880a6d.json","Makefile.tmp5266d","CMakeCache.txt.tmp24adf","CMakeCache.txt.tmp3d30e","cmake_install.cmake.tmp79aae","Makefile2.tmp12ceb","Makefile.cmake.tmp6ec9c","progress.marks.tmp253bc","TargetDirectories.txt.tmp2c904","link.txt.tmp32600","depend.make.tmp452f7","progress.make.tmp12235","CMakeDirectoryInformation.cmake.tmp87440","DependInfo.cmake.tmp07a1b","index-2025-10-17T10-01-21-0824.json","compiler_depend.make.tmp21d46","CMakeCache.txt.tmpa64a2","CMakeCache.txt.tmp926a1","CMakeCache.txt.tmp745bf","Makefile.tmpd4e64","CMakeCache.txt.tmp07066","CMakeCache.txt.tmp1e932","cmake_install.cmake.tmp5e7ff","Makefile2.tmp8ce0f","Makefile.cmake.tmp25573","progress.marks.tmp910fd","TargetDirectories.txt.tmpa2468","link.txt.tmpcefad","flags.make.tmp7795a","depend.make.tmpdbc96","progress.make.tmp87e85","CMakeDirectoryInformation.cmake.tmp1a4e8","DependInfo.cmake.tmp2ebd0","cache-v2-67d25c06df89e3f70ba8.json","error-2025-10-17T10-01-53-0263.json","error-2025-10-17T10-01-59-0246.json","error-2025-10-17T10-02-01-0486.json","index-2025-10-17T10-01-26-0735.json","compiler_depend.make.tmp406aa","codemodel-v2-4e279233866cc751aba6.json","cmakeFiles-v1-86434f6c232605b4ce03.json","target-blackholesim-Debug-d495574538be49e2086e.json"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 4:11:47 PM:
+	
+
+Modified Files: ["blackhole.cpp","gravitysim3d.cpp","CMakeLists.txt","query.json","pkgRedirects","InstallScripts.json","cmake_clean.cmake","cmake.check_cache"]
+	Created Files: ["gravitysim3d.cpp","codemodel-v2-145e1857fe34525855be.json","index-2025-10-17T10-25-44-0306.json","target-blackholesim-Debug-7e4f0e215f32f4383642.json","Makefile.cmake","Makefile2","TargetDirectories.txt","DependInfo.cmake","build.make","compiler_depend.make","depend.make","link.txt","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json"]
+	Deleted Files: ["Makefile.tmpdd4c8","CMakeCache.txt.tmp5d7dd","CMakeCache.txt.tmpf5a84","cmake_install.cmake.tmp44baa","Makefile2.tmp7f982","Makefile.cmake.tmp061bd","progress.marks.tmpaa430","TargetDirectories.txt.tmp3e317","link.txt.tmpce1b2","depend.make.tmp5752c","progress.make.tmp18609","CMakeDirectoryInformation.cmake.tmpc83c7","DependInfo.cmake.tmpd5d17","index-2025-10-17T10-02-22-0379.json","compiler_depend.make.tmp12053","codemodel-v2-81003c63d9131feb67cf.json","target-blackholesim-Debug-1f32becaf905a8f69be9.json"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 6:26:13 PM:
+	
+
+Modified Files: ["gravitysim3d.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 6:56:13 PM:
+	
+
+Modified Files: ["tasks.md","blackhole.cpp","gravitysim3d.cpp"]
+	Created Files: ["tasks.md"]
+	Deleted Files: ["tasks.md.tmp.40569.1760706252004","tasks.md.tmp.40569.1760706344949","tasks.md.tmp.40569.1760706411619"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/17/2025, 7:26:13 PM:
+	
+
+Modified Files: ["gravitysim3d.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 5:28:57 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 5:58:57 AM:
+	
+
+Modified Files: ["tasks.md","gravitysim3d.cpp"]
+	Created Files: ["tasks.md"]
+	Deleted Files: ["tasks.md.tmp.40569.1760746684710"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 6:28:57 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 6:58:57 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 7:28:57 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 7:58:57 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: ["gravitysim3d.cpp"]
+	Deleted Files: ["gravitysim3d.cpp.tmp.40569.1760752862766","gravitysim3d.cpp.tmp.40569.1760752870811","gravitysim3d.cpp.tmp.40569.1760752879538","gravitysim3d.cpp.tmp.40569.1760752885670","gravitysim3d.cpp.tmp.40569.1760752892818","gravitysim3d.cpp.tmp.40569.1760752899206","gravitysim3d.cpp.tmp.40569.1760752905452","gravitysim3d.cpp.tmp.40569.1760752912078","gravitysim3d.cpp.tmp.40569.1760752918652"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 8:54:07 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","config.h"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 9:24:08 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 9:54:08 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 10:24:08 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 10:54:08 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp","tasks.md"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 11:24:08 AM:
+	
+
+Modified Files: ["gravitysim3d.cpp"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 11:54:08 AM:
+	
+
+Modified Files: ["tasks.md","gravitysim3d.cpp","main.cpp.o.d","Progress","count.txt","gravitysim3d.cpp.o.d","pkgRedirects","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","CMakeLists.txt","query.json","config.h"]
+	Created Files: ["Progress","count.txt","compiler_depend.internal","compiler_depend.make","1","main.cpp-763e6dce.o.tmp","config.h","gravitysim3d.cpp","compiler_depend.internal.tmp69d30","compiler_depend.make.tmpde605","main.cpp-929d31a7.o.tmp","main.cpp.o","3","blackhole.cpp-e17459f5.o.tmp","blackhole.cpp.o","blackhole.cpp.o.d","4","gravitysim3d.cpp-e5ac1016.o.tmp","gravitysim3d.cpp.o.d","gravitysim3d.cpp-e6bff3e3.o.tmp","gravitysim3d.cpp.o","5","gravitysim3d.cpp-b80d30a6.o.tmp","CMakeLists.txt","codemodel-v2-1ad38dbe35416020d2eb.json","index-2025-10-18T06-14-41-0423.json","target-blackholesim-Debug-043a24e072a1c3d6281f.json","Makefile.cmake","Makefile2","TargetDirectories.txt","DependInfo.cmake","build.make","depend.make","link.txt","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","blackholesim","gravitysim3d.cpp-948cb164.o.tmp","gravitysim3d.cpp-f2d6f444.o.tmp","gravitysim3d.cpp-cbb7186a.o.tmp","codemodel-v2-20f4f99e5ee723d64a8a.json","index-2025-10-18T06-21-25-0715.json","target-blackholesim-Debug-e65f941f61e35fe8d935.json","codemodel-v2-74ab3a0339fd6ca6b547.json","index-2025-10-18T06-21-29-0281.json","target-blackholesim-Debug-24896e43a3ea33fba264.json","gravitysim3d.cpp-4210c42f.o.tmp","main.cpp-5c7c16a6.o.tmp","codemodel-v2-5f67bf6871e962079bc3.json","index-2025-10-18T06-23-42-0593.json","target-blackholesim-Debug-d92bdfe631157a9aa432.json","2","main.cpp-3c738cbb.o.tmp"]
+	Deleted Files: ["main.cpp.o","main.cpp-763e6dce.o.tmp","config.h.tmp.40569.1760767835906","gravitysim3d.cpp.tmp.40569.1760767853854","gravitysim3d.cpp.tmp.40569.1760767860400","1","compiler_depend.make.tmpde605","compiler_depend.internal.tmp69d30","main.cpp-929d31a7.o.tmp","blackhole.cpp-e17459f5.o.tmp","gravitysim3d.cpp-e5ac1016.o.tmp","gravitysim3d.cpp.tmp.40569.1760767961292","gravitysim3d.cpp.tmp.40569.1760767971239","3","4","gravitysim3d.cpp-e6bff3e3.o.tmp","blackholesim","5","gravitysim3d.cpp.tmp.40569.1760768017176","gravitysim3d.cpp-b80d30a6.o.tmp","CMakeLists.txt.tmp.40569.1760768072595","Makefile.tmpfbdd8","CMakeCache.txt.tmp40fa6","CMakeCache.txt.tmp9e92d","cmake_install.cmake.tmp505bd","Makefile2.tmp58239","Makefile.cmake.tmpadb9a","progress.marks.tmp90cc1","TargetDirectories.txt.tmp3ebae","link.txt.tmp45263","flags.make.tmp37a15","depend.make.tmpbf431","progress.make.tmpc68e4","CMakeDirectoryInformation.cmake.tmp3d7f6","compiler_depend.internal","DependInfo.cmake.tmp7960e","index-2025-10-17T10-25-44-0306.json","compiler_depend.make.tmp79bc5","codemodel-v2-145e1857fe34525855be.json","target-blackholesim-Debug-7e4f0e215f32f4383642.json","Progress","gravitysim3d.cpp-948cb164.o.tmp","gravitysim3d.cpp.tmp.40569.1760768353483","gravitysim3d.cpp.tmp.40569.1760768370545","gravitysim3d.cpp.o","gravitysim3d.cpp-f2d6f444.o.tmp","gravitysim3d.cpp.tmp.40569.1760768400767","gravitysim3d.cpp.tmp.40569.1760768415093","gravitysim3d.cpp-cbb7186a.o.tmp","Makefile.tmp69e11","tmp.json","CMakeCache.txt.tmp727fb","CMakeCache.txt.tmpa6d13","cmake_install.cmake.tmp42602","Makefile2.tmpda69a","Makefile.cmake.tmp72428","progress.marks.tmp2c980","TargetDirectories.txt.tmp5dd55","link.txt.tmpce4ab","depend.make.tmpaf26b","progress.make.tmp19ee2","CMakeDirectoryInformation.cmake.tmp0fe39","DependInfo.cmake.tmp6832b","index-2025-10-18T06-14-41-0423.json","compiler_depend.make.tmp6b384","codemodel-v2-1ad38dbe35416020d2eb.json","target-blackholesim-Debug-043a24e072a1c3d6281f.json","Makefile.tmp4ca94","CMakeCache.txt.tmp16810","CMakeCache.txt.tmpe43d2","cmake_install.cmake.tmpab41d","Makefile2.tmpc9b6c","Makefile.cmake.tmpb748a","progress.marks.tmp71b22","TargetDirectories.txt.tmp94e1f","link.txt.tmpd62ed","depend.make.tmp1affa","progress.make.tmp54d3f","CMakeDirectoryInformation.cmake.tmp39580","DependInfo.cmake.tmp13fc3","index-2025-10-18T06-21-25-0715.json","compiler_depend.make.tmp7de69","codemodel-v2-20f4f99e5ee723d64a8a.json","target-blackholesim-Debug-e65f941f61e35fe8d935.json","main.cpp-5c7c16a6.o.tmp","gravitysim3d.cpp-4210c42f.o.tmp","Makefile.tmpe2d5f","CMakeCache.txt.tmp710e8","CMakeCache.txt.tmp8c9e4","cmake_install.cmake.tmp4cddf","Makefile2.tmp44ec4","Makefile.cmake.tmpcebd6","progress.marks.tmp8347e","TargetDirectories.txt.tmp0a4ea","link.txt.tmp0db5b","flags.make.tmp8c8d3","depend.make.tmp1b648","progress.make.tmp93d75","CMakeDirectoryInformation.cmake.tmpb6a40","DependInfo.cmake.tmpbd8d2","index-2025-10-18T06-21-29-0281.json","compiler_depend.make.tmpcd5e2","codemodel-v2-74ab3a0339fd6ca6b547.json","target-blackholesim-Debug-24896e43a3ea33fba264.json","main.cpp-3c738cbb.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 12:24:08 PM:
+	
+
+Modified Files: ["Progress","count.txt","main.cpp.o.d","pkgRedirects","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","2","CMakeLists.txt","query.json","gravitysim3d.cpp.o.d","blackholesim","finalgravitysim.cpp","finalgravitysim.cpp.o.d"]
+	Created Files: ["compiler_depend.internal.tmp73701","compiler_depend.make.tmpbdcd6","2","compiler_depend.internal","main.cpp-43884295.o.tmp","config.h","index-2025-10-18T06-24-55-0481.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","main.cpp-a6e29d07.o.tmp","main.cpp.o","3","blackholesim","Progress","count.txt","compiler_depend.internal.tmp07127","compiler_depend.make.tmpc5921","error-2025-10-18T06-25-36-0727.json","codemodel-v2-0e9baa517f90ccb5c04c.json","index-2025-10-18T06-25-38-0554.json","target-blackholesim-Debug-1ff2d076060cd693b2e1.json","DependInfo.cmake","build.make","link.txt","gravitysim3d.cpp-93840155.o.tmp","gravitysim3d.cpp.o","gravitysim3d.cpp","gravitysim3d.cpp-4bb7b135.o.tmp","compiler_depend.internal.tmpd7eb6","compiler_depend.make.tmp78e52","finalgravitysim.cpp","error-2025-10-18T06-30-43-0065.json","codemodel-v2-cd0ff775db73ee25fd85.json","index-2025-10-18T06-31-11-0430.json","target-blackholesim-Debug-a9e91e8f8910bd381fc5.json","index-2025-10-18T06-31-17-0075.json","index-2025-10-18T06-33-06-0691.json","finalgravitysim.cpp-71247e6c.o.tmp","finalgravitysim.cpp.o","finalgravitysim.cpp.o.d","index-2025-10-18T06-33-56-0176.json","finalgravitysim.cpp-e4271a79.o.tmp","compiler_depend.internal.tmp567b7","compiler_depend.make.tmp8b2bb","finalgravitysim.cpp-79817089.o.tmp","finalgravitysim.cpp-35c5a40e.o.tmp","finalgravitysim.cpp-a22711ce.o.tmp"]
+	Deleted Files: ["2","compiler_depend.make.tmpbdcd6","compiler_depend.internal.tmp73701","main.cpp-43884295.o.tmp","config.h.tmp.40569.1760768681588","Makefile.tmp33804","CMakeCache.txt.tmpba7b9","CMakeCache.txt.tmpfa94f","cmake_install.cmake.tmpcc4d0","Makefile2.tmpe22fc","Makefile.cmake.tmpc285c","progress.marks.tmp8e4b0","TargetDirectories.txt.tmp683f4","link.txt.tmpaca7f","flags.make.tmp4155a","depend.make.tmp79648","progress.make.tmp34110","CMakeDirectoryInformation.cmake.tmpc156c","compiler_depend.internal","DependInfo.cmake.tmp378c1","index-2025-10-18T06-23-42-0593.json","compiler_depend.make.tmp29d56","main.cpp-a6e29d07.o.tmp","Progress","compiler_depend.make.tmpc5921","compiler_depend.internal.tmp07127","tmp.json","CMakeCache.txt.tmp970f6","Makefile.tmp4fe72","CMakeCache.txt.tmp6ef1e","CMakeCache.txt.tmp6efa6","cmake_install.cmake.tmp78b06","Makefile2.tmpc83bc","Makefile.cmake.tmp02691","progress.marks.tmp2d074","TargetDirectories.txt.tmp019e9","link.txt.tmp81968","flags.make.tmp38ff0","depend.make.tmpacb49","progress.make.tmpe958a","CMakeDirectoryInformation.cmake.tmp5de68","DependInfo.cmake.tmp89a6e","error-2025-10-18T06-25-36-0727.json","index-2025-10-18T06-24-55-0481.json","compiler_depend.make.tmp8b603","codemodel-v2-5f67bf6871e962079bc3.json","target-blackholesim-Debug-d92bdfe631157a9aa432.json","gravitysim3d.cpp-93840155.o.tmp","gravitysim3d.cpp.tmp.40569.1760768816217","gravitysim3d.cpp.tmp.40569.1760768824653","gravitysim3d.cpp-4bb7b135.o.tmp","compiler_depend.make.tmp78e52","compiler_depend.internal.tmpd7eb6","CMakeCache.txt.tmp04584","Makefile.tmpd982c","CMakeCache.txt.tmpaede9","CMakeCache.txt.tmpb55e9","cmake_install.cmake.tmpa9c42","Makefile2.tmpa75c6","Makefile.cmake.tmp4d534","progress.marks.tmpf8ae2","TargetDirectories.txt.tmp081ef","link.txt.tmp134a4","depend.make.tmpd8922","progress.make.tmp19460","CMakeDirectoryInformation.cmake.tmpe772f","DependInfo.cmake.tmp34db8","error-2025-10-18T06-30-43-0065.json","index-2025-10-18T06-25-38-0554.json","compiler_depend.make.tmp5f1c3","codemodel-v2-0e9baa517f90ccb5c04c.json","target-blackholesim-Debug-1ff2d076060cd693b2e1.json","Makefile.tmp1e4d5","CMakeCache.txt.tmp56807","CMakeCache.txt.tmp77ab0","cmake_install.cmake.tmp63c3a","Makefile2.tmp22b59","Makefile.cmake.tmp3a07a","progress.marks.tmp10a42","TargetDirectories.txt.tmpe67c5","link.txt.tmpa2454","depend.make.tmpd7d22","progress.make.tmpd3fe7","CMakeDirectoryInformation.cmake.tmp8f33f","DependInfo.cmake.tmp427c6","index-2025-10-18T06-31-11-0430.json","compiler_depend.make.tmp906dc","finalgravitysim.cpp.tmp.40569.1760769159469","Makefile.tmp3a555","CMakeCache.txt.tmp16a53","CMakeCache.txt.tmp5aa0b","cmake_install.cmake.tmp6de31","Makefile2.tmpcabc9","Makefile.cmake.tmp2cd1a","progress.marks.tmp84a29","TargetDirectories.txt.tmp58e54","link.txt.tmp1e368","depend.make.tmp2f34e","progress.make.tmpf9130","CMakeDirectoryInformation.cmake.tmpfae99","DependInfo.cmake.tmp473b2","index-2025-10-18T06-31-17-0075.json","compiler_depend.make.tmpd5b23","compiler_depend.make.tmp8b88d","compiler_depend.internal.tmp3554c","finalgravitysim.cpp-71247e6c.o.tmp","Makefile.tmpf3a7d","CMakeCache.txt.tmp800fc","CMakeCache.txt.tmpde71f","cmake_install.cmake.tmpa4ba3","Makefile2.tmp786fb","Makefile.cmake.tmpa957e","progress.marks.tmp9347f","TargetDirectories.txt.tmpd7f79","link.txt.tmp5f562","flags.make.tmp94eb0","depend.make.tmp8bcfd","progress.make.tmp5fa11","CMakeDirectoryInformation.cmake.tmp0186f","DependInfo.cmake.tmpae931","index-2025-10-18T06-33-06-0691.json","compiler_depend.make.tmpd37fa","finalgravitysim.cpp.tmp.40569.1760769391522","finalgravitysim.cpp.tmp.40569.1760769401944","finalgravitysim.cpp.tmp.40569.1760769521339","finalgravitysim.cpp-e4271a79.o.tmp","compiler_depend.make.tmp8b2bb","compiler_depend.internal.tmp567b7","finalgravitysim.cpp-79817089.o.tmp","finalgravitysim.cpp-35c5a40e.o.tmp","finalgravitysim.cpp-a22711ce.o.tmp","finalgravitysim.cpp.tmp.40569.1760770420536","finalgravitysim.cpp.tmp.40569.1760770428087","finalgravitysim.cpp.tmp.40569.1760770435281","finalgravitysim.cpp.tmp.40569.1760770443894"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 12:54:08 PM:
+	
+
+Modified Files: ["pkgRedirects","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","finalgravitysim.cpp.o.d","blackholesim","finalgravitysim.cpp","Progress","count.txt"]
+	Created Files: ["finalgravitysim.cpp","index-2025-10-18T06-56-05-0158.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","Progress","2","count.txt","compiler_depend.internal","finalgravitysim.cpp-cb40711b.o.tmp","finalgravitysim.cpp.o","3","compiler_depend.internal.tmpc7b4f","compiler_depend.make.tmp3a588","finalgravitysim.cpp-1626ac7a.o.tmp","compiler_depend.internal.tmp04d17","compiler_depend.make.tmp0c124","finalgravitysim.cpp-2580a598.o.tmp","compiler_depend.internal.tmpd9d2c","compiler_depend.make.tmp726f6","finalgravitysim.cpp-a1f011ef.o.tmp","compiler_depend.internal.tmp7dd3a","compiler_depend.make.tmp15f76","finalgravitysim.cpp-75ee063a.o.tmp","finalgravitysim.cpp-1a0bd68c.o.tmp","blackholesim","index-2025-10-18T07-19-49-0507.json","finalgravitysim.cpp-666db04b.o.tmp"]
+	Deleted Files: ["finalgravitysim.cpp.tmp.40569.1760770451805","finalgravitysim.cpp.tmp.40569.1760770470733","finalgravitysim.cpp.tmp.40569.1760770487970","finalgravitysim.cpp.tmp.40569.1760770492683","finalgravitysim.cpp.tmp.40569.1760770507879","finalgravitysim.cpp.tmp.40569.1760770535506","Makefile.tmp5525e","CMakeCache.txt.tmp329c6","CMakeCache.txt.tmp5a48a","cmake_install.cmake.tmp4e25c","Makefile2.tmp874a0","Makefile.cmake.tmpc2593","progress.marks.tmp665e9","TargetDirectories.txt.tmp087f5","link.txt.tmp5bc30","depend.make.tmp00636","progress.make.tmpa5c5f","CMakeDirectoryInformation.cmake.tmpf0205","compiler_depend.internal","DependInfo.cmake.tmp0848b","index-2025-10-18T06-33-56-0176.json","compiler_depend.make.tmp3405f","finalgravitysim.cpp-cb40711b.o.tmp","Progress","compiler_depend.make.tmp3a588","compiler_depend.internal.tmpc7b4f","finalgravitysim.cpp.tmp.40569.1760770695114","finalgravitysim.cpp.tmp.40569.1760770703421","finalgravitysim.cpp.tmp.40569.1760770709049","finalgravitysim.cpp.tmp.40569.1760770733129","finalgravitysim.cpp-1626ac7a.o.tmp","compiler_depend.make.tmp0c124","compiler_depend.internal.tmp04d17","finalgravitysim.cpp-2580a598.o.tmp","compiler_depend.make.tmp726f6","compiler_depend.internal.tmpd9d2c","finalgravitysim.cpp-a1f011ef.o.tmp","compiler_depend.make.tmp15f76","compiler_depend.internal.tmp7dd3a","finalgravitysim.cpp-75ee063a.o.tmp","blackholesim","2","3","finalgravitysim.cpp-1a0bd68c.o.tmp","Makefile.tmpb4829","CMakeCache.txt.tmp56707","CMakeCache.txt.tmp7f613","cmake_install.cmake.tmp5c7b0","Makefile2.tmpfeffd","Makefile.cmake.tmpbe37a","progress.marks.tmp1ff98","TargetDirectories.txt.tmp43812","link.txt.tmp37abe","flags.make.tmpdd8ba","depend.make.tmp29fe7","progress.make.tmpfb2bb","CMakeDirectoryInformation.cmake.tmp68fd8","DependInfo.cmake.tmpbfd91","index-2025-10-18T06-56-05-0158.json","compiler_depend.make.tmpc1c2f","finalgravitysim.cpp-666db04b.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 1:24:08 PM:
+	
+
+Modified Files: ["finalgravitysim.cpp","pkgRedirects","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","finalgravitysim.cpp.o.d","blackholesim"]
+	Created Files: ["index-2025-10-18T07-26-43-0865.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","Progress","2","count.txt","compiler_depend.internal","finalgravitysim.cpp-5ce6b93a.o.tmp","finalgravitysim.cpp.o","3"]
+	Deleted Files: ["Makefile.tmp209f6","tmp.json","CMakeCache.txt.tmpdaf9c","CMakeCache.txt.tmpf717a","cmake_install.cmake.tmpf0f4b","Makefile2.tmpceff3","Makefile.cmake.tmpbe042","progress.marks.tmp1e725","TargetDirectories.txt.tmp65c21","link.txt.tmp26433","flags.make.tmp53d18","depend.make.tmp879ab","progress.make.tmpa96b8","CMakeDirectoryInformation.cmake.tmp473dd","compiler_depend.internal","DependInfo.cmake.tmp01a50","index-2025-10-18T07-19-49-0507.json","compiler_depend.make.tmpfce52","finalgravitysim.cpp-5ce6b93a.o.tmp","Progress"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 1:54:08 PM:
+	
+
+Modified Files: []
+	Created Files: ["Progress","count.txt"]
+	Deleted Files: ["Progress"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 3:02:37 PM:
+	
+
+Modified Files: ["query.json","InstallScripts.json","cmake_clean.cmake","cmake.check_cache","pkgRedirects","finalgravitysim.cpp.o.d","blackholesim"]
+	Created Files: ["pkgRedirects","index-2025-10-18T09-02-41-0438.json","Makefile.cmake","Makefile2","TargetDirectories.txt","compiler_depend.make","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","Progress","count.txt","compiler_depend.internal","finalgravitysim.cpp","index-2025-10-18T09-09-43-0334.json","2","finalgravitysim.cpp-b36b1ef3.o.tmp","finalgravitysim.cpp.o","3","finalgravitysim.cpp-e37ed413.o.tmp"]
+	Deleted Files: ["Makefile.tmp935b9","CMakeCache.txt.tmp0df6e","CMakeCache.txt.tmp95936","cmake_install.cmake.tmpf8b3f","Makefile2.tmp41393","Makefile.cmake.tmp9d127","progress.marks.tmp5152a","TargetDirectories.txt.tmp886dd","link.txt.tmp62500","flags.make.tmp15b06","depend.make.tmp61c36","progress.make.tmp6ffa3","CMakeDirectoryInformation.cmake.tmp63bac","compiler_depend.internal","DependInfo.cmake.tmp6e283","index-2025-10-18T09-00-39-0036.json","compiler_depend.make.tmpe3360","Progress","finalgravitysim.cpp.tmp.58759.1760778530000","finalgravitysim.cpp.tmp.58759.1760778532749","finalgravitysim.cpp.tmp.58759.1760778535954","Makefile.tmp25ef2","CMakeCache.txt.tmp90ad6","CMakeCache.txt.tmpceeb7","cmake_install.cmake.tmpf97a3","Makefile2.tmp9afeb","Makefile.cmake.tmpc5858","progress.marks.tmpdfb49","TargetDirectories.txt.tmp5bb51","link.txt.tmpa4d79","build.make.tmpf7fc9","flags.make.tmp605f8","depend.make.tmpcce3d","progress.make.tmp47951","CMakeDirectoryInformation.cmake.tmp08bc3","DependInfo.cmake.tmpf0757","index-2025-10-18T09-02-41-0438.json","compiler_depend.make.tmp6f5aa","finalgravitysim.cpp-b36b1ef3.o.tmp","finalgravitysim.cpp.tmp.58759.1760778695878","finalgravitysim.cpp-e37ed413.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 3:32:37 PM:
+	
+
+Modified Files: ["tasks.md","finalgravitysim.cpp","finalgravitysim.cpp.o.d","blackholesim"]
+	Created Files: ["Progress","count.txt","compiler_depend.internal","2","finalgravitysim.cpp-c14fd170.o.tmp","finalgravitysim.cpp.o","3"]
+	Deleted Files: ["Progress","finalgravitysim.cpp-c14fd170.o.tmp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/18/2025, 4:32:37 PM:
+	
+
+Modified Files: []
+	Created Files: ["Progress","count.txt","compiler_depend.internal"]
+	Deleted Files: ["Progress"]
+	===============================
+
+Summary:
+Error generating summary.
+
