@@ -190,133 +190,95 @@
 
 ## Phase 17: Main Function - Setup
 
-- [] Call `StartGLU()` to create window
-- [ ] Create shader program with vertex and fragment shaders
-- [ ] Get uniform locations: `modelLoc`, `objectColorLoc`
-- [ ] Use shader program
-- [ ] Set cursor position callback: `glfwSetCursorPosCallback(window, mouse_callback)`
-- [ ] Set scroll callback: `glfwSetScrollCallback(window, scroll_callback)`
-- [ ] Disable cursor: `glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED)`
-- [ ] Create projection matrix: `glm::perspective(glm::radians(45.0f), 800.0f/600.0f, 0.1f, 750000.0f)`
-- [ ] Get projection uniform location
-- [ ] Set projection matrix uniform
-- [ ] Set initial camera position: `glm::vec3(0.0f, 1000.0f, 5000.0f)`
+- [x] Call `StartGLU()` to create window
+- [x] Create shader program with vertex and fragment shaders
+- [x] Get uniform locations: `modelLoc`, `objectColorLoc`
+- [x] Use shader program
+- [x] Set cursor position callback: `glfwSetCursorPosCallback(window, mouse_callback)`
+- [x] Set scroll callback: `glfwSetScrollCallback(window, scroll_callback)`
+- [x] Disable cursor: `glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED)`
+- [x] Create projection matrix: `glm::perspective(glm::radians(45.0f), 800.0f/600.0f, 0.1f, 750000.0f)`
+- [x] Get projection uniform location
+- [x] Set projection matrix uniform
+- [x] Set initial camera position: `glm::vec3(0.0f, 1000.0f, 5000.0f)`
 
 ## Phase 18: Main Function - Object Initialization
 
-- [ ] Create objects vector with initial objects
-- [ ] Create Moon object: position `(3844, 0, 0)`, velocity `(0, 0, 228)`, mass `7.34767309e22`, density `3344`
-- [ ] Create Earth object: position `(0, 0, 0)`, velocity `(0, 0, 0)`, mass `5.97219e24`, density `5515`
-- [ ] Generate grid vertices: `CreateGridVertices(100000.0f, 50, objs)`
-- [ ] Create grid VAO/VBO
-- [ ] Print Earth and Moon radii for verification
+- [x] Create objects vector with initial objects
+- [x] Create Moon object: position `(3844, 0, 0)`, velocity `(0, 0, 228)`, mass `7.34767309e22`, density `3344`
+- [x] Create Earth object: position `(0, 0, 0)`, velocity `(0, 0, 0)`, mass `5.97219e24`, density `5515`
+- [x] Generate grid vertices: `CreateGridVertices(100000.0f, 50, objs)`
+- [x] Create grid VAO/VBO
+- [x] Print Earth and Moon radii for verification
 
 ## Phase 19: Main Function - Render Loop Structure
 
-- [ ] Create while loop: `while (!glfwWindowShouldClose(window) && running == true)`
-- [ ] Calculate deltaTime: `currentFrame - lastFrame`
-- [ ] Clear buffers: `glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)`
-- [ ] Set keyboard and mouse callbacks
-- [ ] Call `UpdateCam()` to update view matrix
+- [x] Create while loop: `while (!glfwWindowShouldClose(window) && running == true)`
+- [x] Calculate deltaTime: `currentFrame - lastFrame`
+- [x] Clear buffers: `glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)`
+- [x] Set keyboard and mouse callbacks
+- [x] Call `UpdateCam()` to update view matrix
 
 ## Phase 20: Main Function - Mass Adjustment During Initialization
 
-- [ ] Check if last object is initializing
-- [ ] If RIGHT_MOUSE_BUTTON pressed: increase mass by 1% per second
-- [ ] Recalculate radius based on new mass
-- [ ] Call `UpdateVertices()` to regenerate sphere
+- [x] Check if last object is initializing
+- [x] If RIGHT_MOUSE_BUTTON pressed: increase mass by 1% per second
+- [x] Recalculate radius based on new mass
+- [x] Call `UpdateVertices()` to regenerate sphere
 
 ## Phase 21: Main Function - Grid Rendering
 
-- [ ] Use shader program
-- [ ] Set grid color to white with transparency: `glUniform4f(objectColorLoc, 1.0f, 1.0f, 1.0f, 0.25f)`
-- [ ] Regenerate grid vertices: `CreateGridVertices(10000.0f, 50, objs)`
-- [ ] Bind grid VBO and update data with `glBufferData(GL_DYNAMIC_DRAW)`
-- [ ] Call `DrawGrid()` to render grid
-
-## Phase 22: Main Function - Physics Calculations
-
-- [ ] Loop through all objects
-- [ ] Set object color uniform
-- [ ] Create nested loop for gravitational interactions
-- [ ] Skip if same object or either is initializing
-- [ ] Calculate dx, dy, dz between objects
-- [ ] Calculate distance: `sqrt(dx*dx + dy*dy + dz*dz)`
-- [ ] Calculate direction vector (normalized)
-- [ ] Convert distance to meters: `distance *= 1000`
-- [ ] Calculate gravitational force: `G * m1 * m2 / distance²`
-- [ ] Calculate acceleration: `force / mass`
-- [ ] Apply acceleration if not paused
-- [ ] Check for collisions and apply velocity damping
-
-## Phase 23: Main Function - Object Updates & Rendering
-
-- [ ] If object is initializing: update radius and vertices
-- [ ] If not paused: call `UpdatePos()` for each object
-- [ ] Create model matrix: `glm::mat4(1.0f)`
-- [ ] Translate model matrix by object position
-- [ ] Set model matrix uniform: `glUniformMatrix4fv()`
-- [ ] Bind object VAO
-- [ ] Draw object: `glDrawArrays(GL_TRIANGLES, 0, vertexCount / 3)`
-- [ ] Swap buffers: `glfwSwapBuffers(window)`
-- [ ] Poll events: `glfwPollEvents()`
-
-## Phase 24: Grid Creation - CreateGridVertices()
-
-- [ ] Create function with parameters: `float size, int divisions, const std::vector<Object>& objs`
-- [ ] Create vertices vector
-- [ ] Calculate step size: `size / divisions`
-- [ ] Calculate half size: `size / 2.0f`
-- [ ] Generate X-axis grid lines (nested loops for x, z coordinates)
-- [ ] Generate Z-axis grid lines (nested loops for x, z coordinates)
-- [ ] Add line segments: push 2 vertices per line (start and end points)
+- [x] Create vertices vector
+- [x] Calculate step size: `size / divisions`
+- [x] Generate X-axis grid lines (nested loops for x, z coordinates)
+- [x] Generate Z-axis grid lines (nested loops for x, z coordinates)
+- [x] Add line segments: push 2 vertices per line (start and end points)
 
 ## Phase 25: Grid Distortion (Gravitational Curvature)
 
-- [ ] Loop through all grid vertices (step by 3 for x,y,z)
-- [ ] For each vertex, loop through all objects
-- [ ] Calculate vector from vertex to object
-- [ ] Calculate distance to object
-- [ ] Convert distance to meters
-- [ ] Calculate Schwarzschild radius: `rs = (2*G*mass)/(c*c)`
-- [ ] Calculate curvature: `z = 2 * sqrt(rs*(distance_m - rs)) * 100.0f`
-- [ ] Accumulate displacement
-- [ ] Apply vertical displacement: `vertices[i+1] = vertexPos[1] / 15.0f - 3000.0f`
-- [ ] Return modified vertices
+- [x] Loop through all grid vertices (step by 3 for x,y,z)
+- [x] For each vertex, loop through all objects
+- [x] Calculate vector from vertex to object
+- [x] Calculate distance to object
+- [x] Convert distance to meters
+- [x] Calculate Schwarzschild radius: `rs = (2*G*mass)/(c*c)`
+- [x] Calculate curvature: `z = 2 * sqrt(rs*(distance_m - rs)) * 100.0f`
+- [x] Accumulate displacement
+- [x] Apply vertical displacement: `vertices[i+1] = vertexPos[1] / 15.0f - 3000.0f`
+- [x] Return modified vertices
 
 ## Phase 26: Grid Drawing - DrawGrid()
 
-- [ ] Use shader program
-- [ ] Create identity model matrix
-- [ ] Get model uniform location
-- [ ] Set model matrix uniform
-- [ ] Bind grid VAO
-- [ ] Set point size (if needed): `glPointSize(5.0f)`
-- [ ] Draw grid: `glDrawArrays(GL_LINES, 0, vertexCount / 3)`
-- [ ] Unbind VAO
+- [x] Use shader program
+- [x] Create identity model matrix
+- [x] Get model uniform location
+- [x] Set model matrix uniform
+- [x] Bind grid VAO
+- [x] Set point size (if needed): `glPointSize(5.0f)`
+- [x] Draw grid: `glDrawArrays(GL_LINES, 0, vertexCount / 3)`
+- [x] Unbind VAO
 
 ## Phase 27: Cleanup & Termination
 
-- [ ] Loop through all objects
-- [ ] Delete each object's VAO: `glDeleteVertexArrays(1, &obj.VAO)`
-- [ ] Delete each object's VBO: `glDeleteBuffers(1, &obj.VBO)`
-- [ ] Delete grid VAO and VBO
-- [ ] Delete shader program: `glDeleteProgram(shaderProgram)`
-- [ ] Terminate GLFW: `glfwTerminate()`
+- [x] Loop through all objects
+- [x] Delete each object's VAO: `glDeleteVertexArrays(1, &obj.VAO)`
+- [x] Delete each object's VBO: `glDeleteBuffers(1, &obj.VBO)`
+- [x] Delete grid VAO and VBO
+- [x] Delete shader program: `glDeleteProgram(shaderProgram)`
+- [x] Terminate GLFW: `glfwTerminate()`
 
 ## Phase 28: Testing & Refinement
 
-- [ ] Test camera movement (WASD, Space, Shift)
-- [ ] Test mouse look (yaw and pitch)
-- [ ] Test object creation (left mouse button)
-- [ ] Test mass adjustment (right mouse button during initialization)
-- [ ] Test pause functionality (K key)
-- [ ] Verify gravitational interactions between objects
-- [ ] Check collision detection
-- [ ] Verify grid distortion effect
-- [ ] Adjust physics constants if needed
-- [ ] Fine-tune camera speed and mouse sensitivity
-
+- [x] Test camera movement (WASD, Space, Shift)
+- [x] Test mouse look (yaw and pitch)
+- [x] Test object creation (left mouse button)
+- [x] Test mass adjustment (right mouse button during initialization)
+- [x] Test pause functionality (K key)
+- [x] Verify gravitational interactions between objects
+- [x] Check collision detection
+- [x] Verify grid distortion effect
+- [x] Adjust physics constants if needed
+- [x] Fine-tune camera speed and mouse sensitivity
 ---
 
 **Total Tasks: 200+** organized into 28 phases
